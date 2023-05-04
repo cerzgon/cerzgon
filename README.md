@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub profile! 👋
 
 <!--
 **cerzgon/cerzgon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my GitHub profile!
 
 I recently completed a secure software development program that equipped me with the skills and knowledge to develop robust and reliable software. As a developer, I'm passionate about building elegant and efficient solutions to complex problems and constantly exploring new technologies and tools to improve my craft.
 
